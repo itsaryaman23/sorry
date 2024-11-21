@@ -9,6 +9,9 @@
   align-items: center;
   flex-direction: column;
 }
+#pic2{
+  display: none;
+}
 .heading{
   font-size: 100px;
   color: palevioletred;
